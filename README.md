@@ -1,3 +1,4 @@
+![Post para Linkedin moderno minimal y digital agencia marketing](https://user-images.githubusercontent.com/103800135/205658517-e4888cb4-1445-4d9a-862f-fb635ee95065.png)
 
 <!--
 **jlchnb/jlchnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

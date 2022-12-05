@@ -1,5 +1,4 @@
-### Hey, Julio here 👋
-https://www.canva.com/design/DAFT35h4SkA/QcJIryK93uCKi16jfTYoJA/edit?utm_content=DAFT35h4SkA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 <!--
 **jlchnb/jlchnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://user-images.githubusercontent.com/103800135/205657137-394bd156-9753-49c3-a704-d34b026ede4b.mp4
+

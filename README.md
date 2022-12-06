@@ -1,5 +1,6 @@
 ![Post para Linkedin moderno minimal y digital agencia marketing](https://user-images.githubusercontent.com/103800135/205658517-e4888cb4-1445-4d9a-862f-fb635ee95065.png)
-
+E-mail: jncohenb@gmail.com
+Teléfono: +56 9 32271826
 <!--
 **jlchnb/jlchnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
